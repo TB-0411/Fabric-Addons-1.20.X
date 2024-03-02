@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tbs-addons:block/void_shale_brick_slab"
+    },
+    "type=double": {
+      "model": "tbs-addons:block/void_shale_bricks"
+    },
+    "type=top": {
+      "model": "tbs-addons:block/void_shale_brick_slab_top"
+    }
+  }
+}

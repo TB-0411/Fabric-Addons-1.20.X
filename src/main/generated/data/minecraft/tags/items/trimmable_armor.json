@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "tbs-addons:bronze_helmet",
+    "tbs-addons:bronze_chestplate",
+    "tbs-addons:bronze_leggings",
+    "tbs-addons:bronze_boots",
+    "tbs-addons:chainmail_helmet",
+    "tbs-addons:chainmail_chestplate",
+    "tbs-addons:chainmail_leggings",
+    "tbs-addons:chainmail_boots",
+    "tbs-addons:steel_helmet",
+    "tbs-addons:steel_chestplate",
+    "tbs-addons:steel_leggings",
+    "tbs-addons:steel_boots",
+    "tbs-addons:ancient_gold_helmet",
+    "tbs-addons:ancient_gold_chestplate",
+    "tbs-addons:ancient_gold_leggings",
+    "tbs-addons:ancient_gold_boots"
+  ]
+}

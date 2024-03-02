@@ -3,7 +3,20 @@
 	"package": "net.tb.addons.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"MixinEnchantmentHelper",
+		"MixinEnchantmentScreenHandler",
+		"MixinGrindstoneScreenHandler",
+		"MixinFollowTargetGoal",
+		"MixinLivingEntity",
+		"MixinItemRenderer",
+		"entity/MixinMobEntity",
+		"entity/MixinZombieEntity",
+		"entity/MixinZombifiedPiglinEntity",
+		"entity/MixinPiglinEntity",
+		"entity/MixinPiglinBruteEntity",
+		"entity/MixinWitherSkeletonEntity",
+		"entity/MixinVindicatorEntity",
+		"entity/MixinVexEntity"
 	],
 	"injectors": {
 		"defaultRequire": 1

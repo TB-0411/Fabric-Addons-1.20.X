@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tbs-addons:block/void_shale"
+    }
+  }
+}

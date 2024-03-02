@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_open",
+  "textures": {
+    "texture": "tbs-addons:block/cast_iron_trapdoor"
+  }
+}

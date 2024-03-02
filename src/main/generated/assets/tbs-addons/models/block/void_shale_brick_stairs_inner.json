@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "tbs-addons:block/void_shale_bricks",
+    "side": "tbs-addons:block/void_shale_bricks",
+    "top": "tbs-addons:block/void_shale_bricks"
+  }
+}

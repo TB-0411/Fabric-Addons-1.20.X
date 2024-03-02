@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tbs-addons:block/steel_sheet_slab"
+    },
+    "type=double": {
+      "model": "tbs-addons:block/steel_sheet_block"
+    },
+    "type=top": {
+      "model": "tbs-addons:block/steel_sheet_slab_top"
+    }
+  }
+}

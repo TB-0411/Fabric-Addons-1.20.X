@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "tbs-addons:block/steel_sheet_block",
+    "side": "tbs-addons:block/steel_sheet_block",
+    "top": "tbs-addons:block/steel_sheet_block"
+  }
+}

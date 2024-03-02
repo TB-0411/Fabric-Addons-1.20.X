@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tbs-addons:block/steel_sheet_block"
+    }
+  }
+}

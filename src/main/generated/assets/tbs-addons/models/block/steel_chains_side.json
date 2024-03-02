@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "edge": "tbs-addons:block/steel_chains_top",
+    "pane": "tbs-addons:block/steel_chain_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "tbs-addons:block/steel_door_bottom",
+    "top": "tbs-addons:block/steel_door_top"
+  }
+}
