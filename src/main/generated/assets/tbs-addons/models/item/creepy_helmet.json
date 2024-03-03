@@ -63,7 +63,6 @@
     }
   ],
   "textures": {
-    "layer0": "tbs-addons:item/creepy_helmet",
-    "layer1": "tbs-addons:item/creepy_helmet_overlay"
+    "layer0": "tbs-addons:item/creepy_helmet"
   }
 }

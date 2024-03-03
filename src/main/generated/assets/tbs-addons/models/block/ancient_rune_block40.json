@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "tbs-addons:block/ancient_rune_block40"
-  }
-}
