@@ -194,7 +194,6 @@ public class ModModelProvider extends FabricModelProvider {
 		itemModelGenerator.register(ModItems.TITANIUM_PICKAXE, Models.HANDHELD);
 		itemModelGenerator.register(ModItems.TITANIUM_AXE, Models.HANDHELD);
 		itemModelGenerator.register(ModItems.TITANIUM_HOE, Models.HANDHELD);
-
 	}
 	
 }

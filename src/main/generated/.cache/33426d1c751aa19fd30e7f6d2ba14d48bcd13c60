@@ -1,4 +1,4 @@
-// 1.20.1	2024-02-11T17:48:23.1183141	TB's Addons/Model Definitions
+// 1.20.1	2024-03-02T15:46:36.1584463	TB's Addons/Model Definitions
 df1b39e2cf051c2737c1b673edb419e2c4e5e40e assets\tbs-addons\models\block\steel_chains_post.json
 95ca71b8f8eb26c814e37ee0173c118a780d8ddc assets\tbs-addons\models\item\wither_bone_boots_redstone_trim.json
 998cc56b605fd3421428104899c312596dddce88 assets\tbs-addons\models\block\cast_iron_trapdoor_open.json
@@ -122,8 +122,8 @@ cc42a9123e6e8353b866f222941c8c08828521e1 assets\tbs-addons\models\item\slime_che
 bd86d3a54798fddd6cbfc2e9d901f8bcdf544ae0 assets\tbs-addons\models\item\slime_leggings_iron_trim.json
 d0e4e74c777a160f679949d7d5388a77b2e6c9fd assets\tbs-addons\models\item\creepy_leggings.json
 9460dd588ee5f3ac297932c4846b20051305428a assets\tbs-addons\models\item\creepy_leggings_quartz_trim.json
-47dbd375b28b647265fa63fdd954e988e8838778 assets\tbs-addons\blockstates\smooth_void_shale.json
 efeefd27fda16dc0e0b621aa345ecbe7dcec4641 assets\tbs-addons\models\item\creepy_chestplate_amethyst_trim.json
+47dbd375b28b647265fa63fdd954e988e8838778 assets\tbs-addons\blockstates\smooth_void_shale.json
 1f28ce08cfcb88160669c049c1fc5263f20fe38f assets\tbs-addons\models\item\slime_chestplate_lapis_trim.json
 04053eb7588c8e944370b401fc07c3fd75d62fdb assets\tbs-addons\models\item\slime_helmet_redstone_trim.json
 9234a56e990274f9626408876b513b9f57ee1c22 assets\tbs-addons\models\item\void_helmet_quartz_trim.json
@@ -168,8 +168,8 @@ adf3c63e62b610101868fb117b9140c8439a2bba assets\tbs-addons\models\item\wither_bo
 71ba81bac7eba0dca5b679c48dfc74786f38803a assets\tbs-addons\models\item\void_shale_stairs.json
 ad519b1d1c4af4c0ee3b8cbe7d47c79672987ea0 assets\tbs-addons\models\item\wither_bone_chestplate_quartz_trim.json
 2fdeaf9311f4384025f7c37c66f0a931ddff7680 assets\tbs-addons\models\item\void_boots.json
-c26d4e9b3c481a00ad8235088120b14dc42e3fe0 assets\tbs-addons\models\item\steel_chestplate_lapis_trim.json
 7f6d6acf81d7f44412a664eb567c1c3a18ee6732 assets\tbs-addons\models\item\void_chestplate_iron_trim.json
+c26d4e9b3c481a00ad8235088120b14dc42e3fe0 assets\tbs-addons\models\item\steel_chestplate_lapis_trim.json
 2399f8f576b90fb73d81eb62ae7adf9119a438fe assets\tbs-addons\models\item\bronze_leggings_quartz_trim.json
 a7ba75e797a3e3173bfc112b485bae180e331c6a assets\tbs-addons\models\block\void_shale_stairs.json
 b300fd4e86912c43908332d87c789f16e77054b2 assets\tbs-addons\models\item\creepy_chestplate_diamond_trim.json
@@ -182,8 +182,8 @@ f2f0ddc1d006b0af308dd14d3f87ab4d4e34987a assets\tbs-addons\models\item\ancient_g
 3d44751d8a7a2b13ee5653954a7a412eb750e8d4 assets\tbs-addons\models\item\slime_helmet_quartz_trim.json
 a29648ad3bae743362b7598b2591ccaba2235f3c assets\tbs-addons\models\item\bone_helmet_quartz_trim.json
 9fb9100dd52f561acdb2c69a2a8b07987213ba50 assets\tbs-addons\models\item\chainmail_leggings_emerald_trim.json
-a3666bfed9f114effac05f5f67ff23a53fba451d assets\tbs-addons\models\item\dragon_tooth.json
 57e627c90e989dc8c080319325410b0e01ea146b assets\tbs-addons\models\item\bronze_helmet_iron_trim.json
+a3666bfed9f114effac05f5f67ff23a53fba451d assets\tbs-addons\models\item\dragon_tooth.json
 46708409e5ca6e4d3b7f7efd9f035e7a909b3ebe assets\tbs-addons\models\item\chainmail_boots_netherite_trim.json
 b6b9aea33e40b271e9390ac657ab18dfb3f65da9 assets\tbs-addons\models\item\slime_boots_gold_trim.json
 6d1c1a46abaa4ec390513d4f10f713db963150da assets\tbs-addons\models\item\slime_leggings_emerald_trim.json
@@ -474,8 +474,8 @@ a13e51770e3eb7f7ae43ebbf3228085e506c72ab assets\tbs-addons\models\item\slime_leg
 a78fb97f0f352ddddcb672f1a64c6b0fc490c0b0 assets\tbs-addons\models\item\ancient_gold_helmet_lapis_trim.json
 30401a236971ce2cffe001ccc06c44356da725ab assets\tbs-addons\models\item\wither_bone_helmet_lapis_trim.json
 f4b6e9d960359b24e3c263df3c7508f7e7ec5547 assets\tbs-addons\models\block\void_titanium_vein.json
-8cbc04070a02ca89c2fb7bc48303a4a004ff321a assets\tbs-addons\models\item\steel_leggings_lapis_trim.json
 3ca2d16cfb7413df289ea35930a6a6ff3493d502 assets\tbs-addons\models\item\steel_leggings.json
+8cbc04070a02ca89c2fb7bc48303a4a004ff321a assets\tbs-addons\models\item\steel_leggings_lapis_trim.json
 22280adc978e9698c2c455fc3494debad85a6e2e assets\tbs-addons\models\item\ancient_gold_boots_emerald_trim.json
 9c1b54e2a6ad8588dd42fa64f9fe481e9d8e8a01 assets\tbs-addons\models\item\bronze_helmet_quartz_trim.json
 f67dc2ae16e52069ad35fbe5fc4574061a4c9480 assets\tbs-addons\models\item\steel_boots_redstone_trim.json
@@ -512,8 +512,8 @@ cbf201f2a09fe17c506910da0210afaa6084a903 assets\tbs-addons\models\item\bronze_pi
 7198a243601c712082142e5043be0a987f967daa assets\tbs-addons\models\item\iron_sword.json
 856db35e928fd8fb778e9ef6db466d925d073650 assets\tbs-addons\models\item\bone_chestplate_diamond_trim.json
 6748dd1fc81b9bb1c30e7a299c97a16ba83d84e6 assets\tbs-addons\models\block\steel_chains_side.json
-2504c42e3f2a108ae4d50dd00754d035880bc165 assets\tbs-addons\models\block\steel_door_bottom_left.json
 c190e9abc046879215f62c049e786e265c1d0ce0 assets\tbs-addons\models\block\titanium_block.json
+2504c42e3f2a108ae4d50dd00754d035880bc165 assets\tbs-addons\models\block\steel_door_bottom_left.json
 ce19c2c74daa02f296579556d9f19b154bed1914 assets\tbs-addons\models\item\gilded_cluster.json
 a8f1a05d0fec004124fcf045c1525d86d4b7bb6b assets\tbs-addons\models\item\slime_chestplate_amethyst_trim.json
 5562ae6d674fe1f6a13f43c05dbec9054331ae8b assets\tbs-addons\models\item\bronze_leggings_netherite_trim.json
@@ -601,9 +601,9 @@ f8f2af8e8a1a90496708bc22f2c2108a68f55ac4 assets\tbs-addons\models\item\creepy_he
 fbf76952e6a266a10f532146c6db94c13ed2ff5b assets\tbs-addons\models\item\tin_nugget.json
 3621e312f16fad6f68645bee23a819a35fc1af37 assets\tbs-addons\models\item\slime_chestplate_emerald_trim.json
 b0c2a98f4f7ab17ee4c0a2da2024a32a123b3776 assets\tbs-addons\models\block\steel_door_top_right_open.json
-57c07690c6f47df5d2d2780dd55a4d4b1e8a40ac assets\tbs-addons\models\item\void_helmet.json
-6d396a422759082e355dbf07f2e484035fdaba5d assets\tbs-addons\models\block\steel_door_top_left_open.json
 b52667571caa391c8de6acd87b1be295728b56ce assets\tbs-addons\models\item\void_boots_redstone_trim.json
+6d396a422759082e355dbf07f2e484035fdaba5d assets\tbs-addons\models\block\steel_door_top_left_open.json
+57c07690c6f47df5d2d2780dd55a4d4b1e8a40ac assets\tbs-addons\models\item\void_helmet.json
 be66917f0c2a5b5b39e89459ba4d5cc7552185b5 assets\tbs-addons\models\item\steel_boots.json
 5593adbd8d4e5ad5108d7836ca14900579d470dd assets\tbs-addons\models\item\creepy_chestplate_netherite_trim.json
 51e0e21198c4a6c13060f7d89a4b3c0784415bf9 assets\tbs-addons\models\item\void_leggings_lapis_trim.json

@@ -68,7 +68,6 @@ public class ModBlocks {
 
     public static final Block MOLTEN_DEBRIS = registerBlock("molten_debris",new Block(FabricBlockSettings.copyOf(Blocks.ANCIENT_DEBRIS).luminance(7)));
     public static final Block RED_ICE = registerBlock("red_ice",new Block(FabricBlockSettings.copyOf(Blocks.BLUE_ICE).strength(3.2f).slipperiness(0.979f)));
-    
 
 
     private static Block registerBlock(String name, Block block) {

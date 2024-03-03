@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tbs-addons:block/ancient_chiseled_block_top",
+    "side": "tbs-addons:block/ancient_chiseled_block"
+  }
+}

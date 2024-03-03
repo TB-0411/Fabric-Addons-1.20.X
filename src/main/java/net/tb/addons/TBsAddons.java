@@ -26,6 +26,7 @@ public class TBsAddons implements ModInitializer {
 		
 		LOGGER.info("Hello Fabric world!");
 
+
 		BiomeModifications.addFeature(BiomeSelectors.foundInOverworld(), GenerationStep.Feature.UNDERGROUND_ORES, CUSTOM_ORE_PLACED_KEY);
 
 		ModBlocks.registerModBlocks();

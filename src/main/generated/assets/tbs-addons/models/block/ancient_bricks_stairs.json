@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "tbs-addons:block/ancient_bricks",
+    "side": "tbs-addons:block/ancient_bricks",
+    "top": "tbs-addons:block/ancient_bricks"
+  }
+}
